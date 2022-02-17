@@ -19,7 +19,7 @@
    git clone "https://github.com/bradleyportfolio" and npm i.
   --
   ## Usage
-   "nodemon"
+   "npm start"
   --
   ## Credits
    N/A
@@ -28,7 +28,7 @@
   This project is covered under the The Unlicense.
   --
   ## Testing
-   There no tests.
+   There are no tests.
   --
   ## Github-Username
   [Github Profile](https://github.com/bradleyjosephh)
