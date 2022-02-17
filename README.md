@@ -1,4 +1,4 @@
-# socialmedia
+# bradleyportfolio
   ----------------------------------
   
   # Table Of Contents
@@ -13,13 +13,13 @@
   * [Email-Address](#email-address)
   
   ## Description
-  This framework api for a social media web app allows users to share  thoughts, react to eachother’s thoughts, and even connect with other users via a friend list. This is created through the use MongoDB and Express.js for routing. It will also timestamp data.
+    A portfolio for myself using react, react-bootstrap, deployed with github pages. Check it out!
   --
   ## Installation
    git clone "https://github.com/bradleyportfolio" and npm i.
   --
   ## Usage
-   "nodemon"
+   "npm run"
   --
   ## Credits
    N/A
