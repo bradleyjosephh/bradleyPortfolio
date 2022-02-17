@@ -1,3 +1,28 @@
+#root, html {
+  background-color: #5998C5;
+}
+
+body {
+  background-color: #5998C5 !important;
+  padding-top: 40px;
+  width: 100%;
+  margin: 1rem;
+
+}
+
+h2 {
+  padding-top: 70px;
+}
+
+h4 {
+  padding-top: 20px;
+}
+
+.navbar {
+  background-color: #9368B7 !important;
+}
+
+
 .App {
   text-align: center;
 }
