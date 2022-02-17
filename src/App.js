@@ -2,6 +2,7 @@ import Nav from './components/Nav'
 import About from './components/About'
 import ContactForm from './components/ContactForm'
 import Portfolio from './components/Portfolio'
+import Footer from './components/Footer'
 import projects from './projects'
 import { Component } from 'react'
 import React from 'react'
@@ -47,6 +48,7 @@ class App extends Component {
           <main>
             <ContactForm />
           </main>
+          <Footer />
         </>
       )
     } else {
@@ -56,6 +58,7 @@ class App extends Component {
           <main>
             <About />
           </main>
+          <Footer />
         </>
       )
     }

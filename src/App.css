@@ -37,12 +37,27 @@ h5 {
   color: #fff;
 }
 
+#foot {
+  text-align: center;
+  background-color: #9368B7;
+  color: #fff;
+  position: static;
+  height: 125px;
+  margin-left: -20px;
+  padding-left: 0px;
+
+}
+
+#needcenter {
+  display: block;
+}
 
 .App {
   text-align: center;
 }
 
 .App-logo {
+  margin-top: 65px;
   height: 40vmin;
   pointer-events: none;
 }
