@@ -2,9 +2,9 @@ import { Nav, Navbar, NavbarBrand, NavItem, NavbarToggler, NavLink, NavbarText, 
 import React, {useState} from 'react';
 
 const Header = (props) => {
-    const [isReady, setIsReady] = useState(false);
+    const [isOpen, setIsOpen] = useState(false);
   
-    const toggle = () => setIsReady(!isReady);
+    const toggle = () => setIsOpen(!isOpen);
   
     const onLinkClick = props.onLinkClick;
     
@@ -20,7 +20,7 @@ const Header = (props) => {
             Bradley Hankus
           </NavbarBrand>
           <NavbarToggler onClick={toggle}/>
-          <Collapse isReady={isReady} onClick={toggle} navbar>
+          <Collapse isOpen={isOpen} onClick={toggle} navbar>
             <Nav
               className="me-auto"
               navbar

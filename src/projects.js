@@ -5,7 +5,7 @@ import image4 from './assets/images/pairup.png';
 import image5 from './assets/images/goodreadme.png';
 import image6 from './assets/images/scheduler.png';
 import image7 from './assets/images/weatherdash.png';
-import image8 from './assets/images/codingquiz.png';
+import image8 from './assets/images/coding_quiz.png';
 import image9 from './assets/images/Screenshot (22).png';
 
 
