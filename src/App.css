@@ -33,6 +33,10 @@ h5 {
   background-color: #9368B7 !important;
 }
 
+.card-text {
+  color: #fff;
+}
+
 
 .App {
   text-align: center;

@@ -13,13 +13,13 @@
   * [Email-Address](#email-address)
   
   ## Description
-    A portfolio for myself using react, react-bootstrap, deployed with github pages. Check it out!
+  A portfolio to give a quick glimpse into my coding career so far. Created with react.js, react-bootstrap, deployed using github pages. Check it out!
   --
   ## Installation
    git clone "https://github.com/bradleyportfolio" and npm i.
   --
   ## Usage
-   "npm run"
+   "nodemon"
   --
   ## Credits
    N/A
